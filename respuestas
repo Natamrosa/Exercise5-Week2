@@ -1,0 +1,7 @@
+Respuestas:
+1) GIT DIFF
+2) GIT DIFF --STAGED
+
+((no estoy segura de estas respuestas))
+
+3) HEAD es el commit en el que está mi repositorio en cada momento. Debería coincidir con el commit de la última rama en la que estoy.

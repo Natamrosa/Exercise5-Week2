@@ -1,6 +1,6 @@
 Respuestas:
-1) GIT DIFF
-2) GIT DIFF --STAGED
+1) GIT LOG --RAW
+2) GIT LOG --STAT
 
 ((no estoy segura de estas respuestas))
 
